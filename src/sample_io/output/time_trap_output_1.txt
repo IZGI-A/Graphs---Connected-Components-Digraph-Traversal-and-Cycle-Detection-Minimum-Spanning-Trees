@@ -1,0 +1,4 @@
+Danger exploration conclusions:
+Colony 1: Dangerous. Cities on the dangerous path: [1, 4, 19]
+Colony 2: Safe
+Colony 3: Dangerous. Cities on the dangerous path: [14, 17, 21]

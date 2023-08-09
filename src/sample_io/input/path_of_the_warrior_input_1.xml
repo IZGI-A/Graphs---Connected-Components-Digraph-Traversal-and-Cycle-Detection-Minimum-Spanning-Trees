@@ -1,0 +1,96 @@
+<TravelMap>
+	<Locations>
+		<Location><Name>Japanese Astronomer</Name><Id>0</Id></Location>
+		<Location><Name>Arabian Sheikh</Name><Id>1</Id></Location>
+		<Location><Name>African Chief</Name><Id>2</Id></Location>
+		<Location><Name>Egyptian Priest</Name><Id>3</Id></Location>
+		<Location><Name>Roman Wrestler</Name><Id>4</Id></Location>
+		<Location><Name>English Archer</Name><Id>5</Id></Location>
+		<Location><Name>Norse Viking</Name><Id>6</Id></Location>
+		<Location><Name>Russian Boyar</Name><Id>7</Id></Location>
+		<Location><Name>Mongol Warrior</Name><Id>8</Id></Location>
+		<Location><Name>Shaolin Monks</Name><Id>9</Id></Location>
+	</Locations>
+	<Trails>
+		<Trail>
+			<Source>0</Source>
+			<Destination>8</Destination>
+			<Danger>3</Danger>
+		</Trail>
+		<Trail>
+			<Source>0</Source>
+			<Destination>9</Destination>
+			<Danger>5</Danger>
+		</Trail>
+		<Trail>
+			<Source>8</Source>
+			<Destination>9</Destination>
+			<Danger>1</Danger>
+		</Trail>
+		<Trail>
+			<Source>7</Source>
+			<Destination>8</Destination>
+			<Danger>3</Danger>
+		</Trail>
+		<Trail>
+			<Source>7</Source>
+			<Destination>6</Destination>
+			<Danger>9</Danger>
+		</Trail>
+		<Trail>
+			<Source>7</Source>
+			<Destination>4</Destination>
+			<Danger>5</Danger>
+		</Trail>
+		<Trail>
+			<Source>6</Source>
+			<Destination>4</Destination>
+			<Danger>1</Danger>
+		</Trail>		
+		<Trail>
+			<Source>6</Source>
+			<Destination>5</Destination>
+			<Danger>6</Danger>
+		</Trail>	
+		<Trail>
+			<Source>5</Source>
+			<Destination>4</Destination>
+			<Danger>5</Danger>
+		</Trail>		
+		<Trail>
+			<Source>5</Source>
+			<Destination>2</Destination>
+			<Danger>7</Danger>
+		</Trail>	
+		<Trail>
+			<Source>2</Source>
+			<Destination>3</Destination>
+			<Danger>3</Danger>
+		</Trail>	
+		<Trail>
+			<Source>2</Source>
+			<Destination>1</Destination>
+			<Danger>4</Danger>
+		</Trail>	
+		<Trail>
+			<Source>4</Source>
+			<Destination>3</Destination>
+			<Danger>1</Danger>
+		</Trail>		
+		<Trail>
+			<Source>4</Source>
+			<Destination>9</Destination>
+			<Danger>4</Danger>
+		</Trail>	
+		<Trail>
+			<Source>3</Source>
+			<Destination>1</Destination>
+			<Danger>5</Danger>
+		</Trail>
+		<Trail>
+			<Source>1</Source>
+			<Destination>9</Destination>
+			<Danger>7</Danger>
+		</Trail>
+	</Trails>
+</TravelMap>

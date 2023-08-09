@@ -1,0 +1,11 @@
+Safest trails are:
+The trail from Japanese Astronomer to Mongol Warrior with danger 3
+The trail from Mongol Warrior to Shaolin Monks with danger 1
+The trail from Russian Boyar to Mongol Warrior with danger 3
+The trail from Roman Wrestler to Shaolin Monks with danger 4
+The trail from Roman Wrestler to Egyptian Priest with danger 1
+The trail from Norse Viking to Roman Wrestler with danger 1
+The trail from African Chief to Egyptian Priest with danger 3
+The trail from African Chief to Arabian Sheikh with danger 4
+The trail from English Archer to Roman Wrestler with danger 5
+Total danger: 25
